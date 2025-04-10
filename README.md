@@ -1,1 +1,1 @@
-![TryHackMe Badge](https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4306482)
+<img src="https://tryhackme-badges.s3.amazonaws.com/Byt3Re4per.png" alt="Your Image Badge" style="float:left; margin-right: 10px;">
